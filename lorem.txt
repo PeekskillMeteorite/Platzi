@@ -1,0 +1,8 @@
+El lorem ipsum no funcione en un archivo de texto pladno.
+
+Tiene que ser un archivo .html para poder aplicar este famoso recurso
+de texto de rellleno, comunmente usado en el diseño y la maquetación.
+
+El lorem ipsum es genial.
+
+No sé como se esribe loren ipsun.
