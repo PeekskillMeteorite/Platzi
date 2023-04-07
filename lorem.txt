@@ -6,3 +6,5 @@ de texto de rellleno, comunmente usado en el diseño y la maquetación.
 El lorem ipsum es genial.
 
 No sé como se esribe loren ipsun.
+
+Pero es no importa ahora.
