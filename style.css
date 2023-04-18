@@ -7,11 +7,12 @@ body {
     width: 70%;
 }
 h1 {
+    background: orange;
     color: teal;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 p {
-    color: grey;
+    color: #229;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
